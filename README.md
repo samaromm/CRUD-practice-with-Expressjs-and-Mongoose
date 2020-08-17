@@ -1,5 +1,5 @@
 # CRUD-practice-with-courses-DB
-A simple practice for Create-Update-Read-Delete from a database using:
+A simple practice for Create-Update-Read-Delete from a courses database using:
 ```text
 Express JS / Express Generator
 Mongodb
